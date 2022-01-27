@@ -1,0 +1,1 @@
+# standard GWAS QC
